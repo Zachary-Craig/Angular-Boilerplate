@@ -1,0 +1,157 @@
+.wrapper {
+    width: 400px;
+    border: 2px solid blue;
+  }
+  .btn-wrapper {
+    margin: 24px auto;
+  }
+  .btn-wrapper button {
+    font-size: 24px;
+    color: blue;
+    background-color: white;
+  }
+  .btn-wrapper button:hover {
+    color: white;
+    background-color: blue;
+  }
+  
+  @media screen and (max-width: 799px) and (min-width: 501px) {
+    .button {
+      display: block;
+    }
+  }
+  
+  @media screen and (max-width: 500px) {
+    .card {
+      transform: scale(0.8);
+    }
+    .card img {
+      width: 80%;
+    }
+  }
+  
+  .wrapper {
+    background-color: gold;
+    padding: 20px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin: 3px;
+  }
+  
+  .dupButton button:hover{
+    color: white;
+    background-color: blue;
+  }
+  .dupButton button:focus{
+    color: white;
+    background-color: blue;
+  }
+  
+  .backgroundColorButton button:hover{
+    color: white;
+    background-color: blue;
+  }
+  .backgroundColorButton button:focus{
+    color: white;
+    background-color: blue;
+  }
+  
+  .headingButton button:hover{
+    color: white;
+    background-color: blue;
+  }
+  .headingButton button:focus{
+    color: white;
+    background-color: blue;
+  }
+  
+  .deleteCard button:hover{
+    color: white;
+    background-color: blue;
+  }
+  .deleteCard button:focus {
+    color: white;
+    background-color: blue;
+  }
+    /*
+    */
+    
+    .wrapper {
+    width: 400px;
+    border: 6px solid black;
+  }
+  .btn-wrapper {
+    margin: 24px auto;
+  }
+  .btn-wrapper button {
+    font-size: 24px;
+    color: blue;
+    background-color: white;
+  }
+  .btn-wrapper button:hover {
+    color: white;
+    background-color: blue;
+  }
+  
+  @media screen and (max-width: 799px) and (min-width: 501px) {
+    .button {
+      display: block;
+    }
+  }
+  
+  @media screen and (max-width: 500px) {
+    .card {
+      transform: scale(0.8);
+    }
+    .card img {
+      width: 80%;
+    }
+  }
+  
+  .wrapper {
+    background-color: gray;
+    padding: 20px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin: 3px;
+  }
+  
+  .dupButton button:hover{
+    color: white;
+    background-color: blue;
+  }
+  .dupButton button:focus{
+    color: white;
+    background-color: blue;
+  }
+  
+  .backgroundColorButton button:hover{
+    color: white;
+    background-color: blue;
+  }
+  .backgroundColorButton button:focus{
+    color: white;
+    background-color: blue;
+  }
+  
+  .headingButton button:hover{
+    color: white;
+    background-color: blue;
+  }
+  .headingButton button:focus{
+    color: white;
+    background-color: blue;
+  }
+  
+  .deleteCard button:hover{
+    color: white;
+    background-color: blue;
+  }
+  .deleteCard button:focus{
+    color: white;
+    background-color: blue;
+  }
